@@ -1,0 +1,64 @@
+testnet:
+http://gemmer.vcoin.systems:9924
+http://188.40.96.183:9924
+http://51.15.189.109:9924
+
+{
+  "peers": [
+    {
+      "address": "vnode.vos.systems/95.216.176.145:9923",
+      "lastSeen": 9223372036854776000
+    },
+    {
+      "address": "vnode.vcoin.systems/163.172.211.175:9923",
+      "lastSeen": 9223372036854776000
+    },
+    {
+      "address": "gemmer.vcoin.systems/195.154.223.169:9923",
+      "lastSeen": 9223372036854776000
+    },
+    {
+      "address": "gemmer.vos.systems/217.79.189.235:9923",
+      "lastSeen": 9223372036854776000
+    }
+  ]
+}
+
+
+mainet:
+{
+  "peers" : [ {
+    "address" : "gemmer.vos.systems/217.79.189.235:9921",
+    "lastSeen" : 9223372036854775807
+  }, {
+    "address" : "/18.163.147.204:9921",
+    "lastSeen" : 1678944929844
+  }, {
+    "address" : "/16.162.167.167:9921",
+    "lastSeen" : 1678944929621
+  }, {
+    "address" : "/54.147.87.141:9921",
+    "lastSeen" : 1678944928297
+  }, {
+    "address" : "/54.70.145.13:9921",
+    "lastSeen" : 1678944930580
+  }, {
+    "address" : "/16.162.166.75:9921",
+    "lastSeen" : 1678944930649
+  }, {
+    "address" : "/16.162.79.111:9921",
+    "lastSeen" : 1678944928323
+  }, {
+    "address" : "vnode.vcoin.systems/151.80.22.47:9921",
+    "lastSeen" : 9223372036854775807
+  }, {
+    "address" : "gemmer.vcoin.systems/188.40.96.183:9921",
+    "lastSeen" : 9223372036854775807
+  }, {
+    "address" : "vnode.vos.systems/95.216.176.145:9921",
+    "lastSeen" : 9223372036854775807
+  }, {
+    "address" : "/54.219.23.33:9921",
+    "lastSeen" : 1678944929554
+  } ]
+}
